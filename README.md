@@ -1,5 +1,5 @@
-# Hi there, I'm Mhammed Basal 👋
-Welcome to my GitHub profile! I'm a passionate **Frontend Developer** who loves building dynamic, user-friendly websites and web applications.
+# Hi there, I'm Marken Myftaraj 👋
+Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** who loves building dynamic, user-friendly websites and web applications and mobile applications.
 
 ---
 
@@ -9,15 +9,15 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** who loves 
 
 <div style="display: flex; align-items: flex-start;">
   <ul style="flex: 1; margin-right: 20px; font-size: 1.2em;">
- <li>🌱 I’m always exploring new frontend technologies to enhance my skills.</li>
-    <li>💻 I enjoy turning complex problems into simple, beautiful, and intuitive designs.</li>
-    <li>🔭 I’m actively seeking new challenges that help me grow as a developer.</li>
-    <li>🎨 I have a passion for UI/UX design, ensuring that user experience is at the forefront of my projects.</li>
-    <li>🚀 I love collaborating with teams to bring innovative ideas to life through code.</li>
-    <li>📚 In my spare time, I contribute to open-source projects and engage with the developer community.</li>
-        
+    <li>🌱 I’m continuously exploring full-stack technologies, from PHP (Laravel, Symfony) to Node.js, to enhance my skills.</li>
+    <li>💻 I enjoy crafting solutions that blend complex backend logic with seamless frontend designs using React and Angular.</li>
+    <li>🔭 I’m actively seeking new challenges in TypeScript and JavaScript to further develop my expertise across the stack.</li>
+    <li>🎨 I have a passion for creating robust and user-centered applications, ensuring that both backend functionality and user experience are seamless.</li>
+    <li>🚀 I love collaborating on projects that bring innovative, end-to-end solutions to life through code on platforms like AWS and GCP.</li>
+    <li>📚 In my spare time, I contribute to open-source projects, share knowledge, and engage with the developer community.</li>
   </ul>
 </div>
+
 
 ---
 
@@ -63,16 +63,5 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** who loves 
 
   </ul>
   </div>
-
-
----
-
-## 🔗 Let's Connect!
-
-- 📫 Feel free to reach out via email: [mhammed@example.com](mailto:mhammed@example.com)
-- 🌐 Visit my portfolio: [www.yourportfolio.com](http://www.yourportfolio.com)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-
----
 
 Thanks for stopping by! 😄
