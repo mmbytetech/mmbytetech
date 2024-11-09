@@ -56,8 +56,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** who love
 ---
 ## 🤝 Let's Work Together!
 
-<img align="right" alt="GIF" style=" position: relative; top: -4000px; width: auto; height: 180px;"  src="https://media1.tenor.com/m/AyMumB_9uV4AAAAC/letsdothis-gelm.gif" />
-
 <div style="display: flex; align-items: flex-start;">
   <ul style="flex: 1; margin-right: 20px; font-size: 1.2em;">
     <li> Innovative Solutions: Fresh ideas and creative approaches to problem-solving.</li>
