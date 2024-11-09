@@ -49,11 +49,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** who love
 
 
 ---
-### 👀 visitor count
-
-<img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg" alt="Hello world" />
-
----
 ## 🤝 Let's Work Together!
 
 <div style="display: flex; align-items: flex-start;">
