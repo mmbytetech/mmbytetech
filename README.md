@@ -5,16 +5,14 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** who love
 
 ## 🚀 About Me
 
-<img align="right" alt="GIF" style="border-radius: 10px" height="180px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRrM2Q3Y3ZrM2JsY3U3dDZ4ZTJxdGNld29hdDRjN3oxOWYydXhuOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp" />
-
 <div style="display: flex; align-items: flex-start;">
   <ul style="flex: 1; margin-right: 20px; font-size: 1.2em;">
-    <li>🌱 I’m continuously exploring full-stack technologies, from PHP (Laravel, Symfony) to Node.js, to enhance my skills.</li>
-    <li>💻 I enjoy crafting solutions that blend complex backend logic with seamless frontend designs using React and Angular.</li>
-    <li>🔭 I’m actively seeking new challenges in TypeScript and JavaScript to further develop my expertise across the stack.</li>
-    <li>🎨 I have a passion for creating robust and user-centered applications, ensuring that both backend functionality and user experience are seamless.</li>
-    <li>🚀 I love collaborating on projects that bring innovative, end-to-end solutions to life through code on platforms like AWS and GCP.</li>
-    <li>📚 In my spare time, I contribute to open-source projects, share knowledge, and engage with the developer community.</li>
+    <li> I’m continuously exploring full-stack technologies, from PHP (Laravel, Symfony) to Node.js, to enhance my skills.</li>
+    <li> I enjoy crafting solutions that blend complex backend logic with seamless frontend designs using React and Angular.</li>
+    <li> I’m actively seeking new challenges in TypeScript and JavaScript to further develop my expertise across the stack.</li>
+    <li> I have a passion for creating robust and user-centered applications, ensuring that both backend functionality and user experience are seamless.</li>
+    <li> I love collaborating on projects that bring innovative, end-to-end solutions to life through code on platforms like AWS and GCP.</li>
+    <li> In my spare time, I contribute to open-source projects, share knowledge, and engage with the developer community.</li>
   </ul>
 </div>
 
@@ -62,12 +60,12 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** who love
 
 <div style="display: flex; align-items: flex-start;">
   <ul style="flex: 1; margin-right: 20px; font-size: 1.2em;">
-    <li> 🌟 **Innovative Solutions:** Fresh ideas and creative approaches to problem-solving.</li>
-    <li> 📚 **Continuous Learning:** Staying updated with the latest technologies for high-quality results.</li>
-    <li> ✅ **Attention to Detail:** Focusing on the finer aspects of design and functionality. </li>
-    <li> 🤝 **Team Player:** Thriving in collaborative environments with open communication.</li>
+    <li> Innovative Solutions: Fresh ideas and creative approaches to problem-solving.</li>
+    <li> Continuous Learning: Staying updated with the latest technologies for high-quality results.</li>
+    <li> Attention to Detail: Focusing on the finer aspects of design and functionality. </li>
+    <li> Team Player: Thriving in collaborative environments with open communication.</li>
 
   </ul>
   </div>
 
-Thanks for stopping by! 😄
+Thanks for stopping by! 
