@@ -7,10 +7,10 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** who love
 
 <div style="display: flex; align-items: flex-start;">
   <ul style="flex: 1; margin-right: 20px; font-size: 1.2em;">
-    <li> I’m continuously exploring full-stack technologies, from PHP (Laravel, Symfony) to Node.js, to enhance my skills.</li>
-    <li> I enjoy crafting solutions that blend complex backend logic with seamless frontend designs using React and Angular.</li>
-    <li> I’m actively seeking new challenges in TypeScript and JavaScript to further develop my expertise across the stack.</li>
-    <li> I have a passion for creating robust and user-centered applications, ensuring that both backend functionality and user experience are seamless.</li>
+    <li> I am a Full-Stack Engineer with over eight years of experience delivering scalable and efficient solutions across industries such as healthcare, finance, retail, telecommunications, and media</li>
+    <li>  My expertise spans frontend technologies like React, Vue.js, Angular, Nuxt.js, and Next.js, as well as backend systems using Node.js, Nest.js, Laravel, Symfony, and Express.js.</li>
+    <li> Proficient in JavaScript, TypeScript, PHP, and Python, I have worked with diverse architectures, including microservices, monolithic systems, and serverless solutions, leveraging AWS and GCP for deployment. </li>
+    <li>My database experience includes both SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB). I follow Agile methodologies to ensure efficient, iterative development and collaboration.</li>
     <li> I love collaborating on projects that bring innovative, end-to-end solutions to life through code on platforms like AWS and GCP.</li>
     <li> In my spare time, I contribute to open-source projects, share knowledge, and engage with the developer community.</li>
   </ul>
