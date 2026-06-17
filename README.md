@@ -1,5 +1,6 @@
 # Hi there, I'm Marken Myftaraj 👋
-Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** who loves building dynamic, user-friendly websites and web applications and mobile applications.
+
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Engineer** focused on building scalable web applications, cloud-native solutions, and distributed systems that deliver real business value.
 
 ---
 
@@ -7,15 +8,16 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** who love
 
 <div style="display: flex; align-items: flex-start;">
   <ul style="flex: 1; margin-right: 20px; font-size: 1.2em;">
-    <li> I am a Full-Stack Engineer with over eight years of experience delivering scalable and efficient solutions across industries such as healthcare, finance, retail, telecommunications, and media</li>
-    <li>  My expertise spans frontend technologies like React, Vue.js, Angular, Nuxt.js, and Next.js, as well as backend systems using Node.js, Nest.js, Laravel, Symfony, and Express.js.</li>
-    <li> Proficient in JavaScript, TypeScript, PHP, and Python, I have worked with diverse architectures, including microservices, monolithic systems, and serverless solutions, leveraging AWS and GCP for deployment. </li>
-    <li>My database experience includes both SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB). I follow Agile methodologies to ensure efficient, iterative development and collaboration.</li>
-    <li> I love collaborating on projects that bring innovative, end-to-end solutions to life through code on platforms like AWS and GCP.</li>
-    <li> In my spare time, I contribute to open-source projects, share knowledge, and engage with the developer community.</li>
+    <li>I am a Full-Stack Engineer with 8+ years of experience building and maintaining scalable applications across industries including healthcare, finance, retail, telecommunications, and media.</li>
+    <li>My expertise spans modern frontend technologies such as React, Angular, Next.js, and Vue.js, alongside backend development with Node.js, NestJS, Laravel, Symfony, and Express.js.</li>
+    <li>I specialize in JavaScript, TypeScript, and PHP, with hands-on experience designing cloud-native applications, APIs, microservices, and distributed systems.</li>
+    <li>My technical background includes AWS, Google Cloud Platform (GCP), Docker, Kafka, RabbitMQ, CI/CD automation, and modern software architecture practices.</li>
+    <li>I have worked with both relational and NoSQL databases, including PostgreSQL, MySQL, MongoDB, and Redis, focusing on performance, scalability, and reliability.</li>
+    <li>I have also contributed to intelligent automation initiatives and AI-powered capabilities integrated into modern web applications to improve user experiences and business workflows.</li>
+    <li>I enjoy solving complex technical challenges, collaborating with cross-functional teams, and continuously learning new technologies and engineering practices.</li>
+    <li>Outside of work, I enjoy contributing to open-source projects, sharing knowledge, and engaging with the developer community.</li>
   </ul>
 </div>
-
 
 ---
 
